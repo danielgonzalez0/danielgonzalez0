@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Thank you for visiting!
+
 <!--
 **danielgonzalez0/danielgonzalez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## About me
 
 As a seasoned professional, I've been involved in web development for 2 years. 
