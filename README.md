@@ -29,4 +29,22 @@ For me, being a developer is an opportunity to share knowledge, learn new techno
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgonzalez0&theme=omni&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgonzalez0&theme=omni&layout=compact)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/danielgonzalez0)  
+## What I'm looking for
+
+I'm looking for a apprenticeship (professional training contract)
+
+I'm following the web developer course at Wild Code School. 
+
+I'm available from the end of May or next September for a 15-month apprenticeship contract, with 3 weeks in the company and 1 week at school. 
+
+## skills
+
+REACT / REDUX / TS / Express / MongoDB / MySQL / JS / HTML / CSS 
+
+## links
+
+My porfolio: [click here](https://www.gonzalez-daniel.com/)
+
+Linkedin: [click here](https://www.linkedin.com/in/danielgonzalez1980/)
+
+
