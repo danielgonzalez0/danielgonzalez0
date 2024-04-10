@@ -26,7 +26,7 @@ Rigour, autonomy, reliability and commitment are the values I bring to every pro
 
 For me, being a developer is an opportunity to share knowledge, learn new technologies and work together towards a common goal.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgonzalez0&theme=omni&show_icons=true&hide_rank=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgonzalez0&theme=omni&show_icons=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgonzalez0&theme=omni&layout=compact)
 
 
