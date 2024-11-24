@@ -2,7 +2,7 @@
 
 thank you for visiting me !
 
-![](https://media.licdn.com/dms/image/D4E16AQHV_8ixfX5_rQ/profile-displaybackgroundimage-shrink_350_1400/0/1707300163963?e=1715817600&v=beta&t=-Km1l7439LnObBPXbDN9q2LQx90kBJQq0NS8PQh1a5A)
+![image](https://github.com/user-attachments/assets/64bdd6b0-1197-4a07-bdb0-ab1c2bb9f809)
 
 <!--
 **danielgonzalez0/danielgonzalez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
